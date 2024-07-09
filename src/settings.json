@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge products designed to revolutionize your business.",
+        "title": "Innovative Solutions for Modern Enterprises"
+      }
+    }
+  ],
+  "theme": "corporate",
+  "font": "",
+  "title": "Innovative Solutions for Modern Enterprises",
+  "subtitle": "Discover cutting-edge products designed to revolutionize your business."
+}
